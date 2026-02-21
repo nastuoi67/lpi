@@ -306,6 +306,18 @@
                     {
                       "formula": 0,
                       "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "beta"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
                     }
                   ]
                 },
