@@ -40,12 +40,12 @@
             {
               "proposition_id": 2231,
               "proposition": "3. A a C sú oba trojuholníky, iba ak aspoň jeden z nich je veľký.",
-              "solution": "((triangle(A) ∧  triangle(C)) -> (large(A) \\/ large(C)))"
+              "solution": "((triangle(A) ∧  triangle(C)) -> (large(A) ∨  large(C)))"
             },
             {
               "proposition_id": 2232,
               "proposition": "4. A je trojuholník, no C nie je veľký.",
-              "solution": null
+              "solution": "(triangle(A) ∧ !large(C))"
             },
             {
               "proposition_id": 2233,
