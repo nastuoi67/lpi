@@ -524,6 +524,18 @@
                     ]
                   ],
                   "locked": false
+                },
+                "triangle": {
+                  "value": [
+                    [
+                      "d"
+                    ]
+                  ],
+                  "locked": false
+                },
+                "smaller": {
+                  "value": [],
+                  "locked": false
                 }
               },
               "iF": {}
