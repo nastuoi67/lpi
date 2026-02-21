@@ -60,12 +60,12 @@
             {
               "proposition_id": 2235,
               "proposition": "7. D je malý kruh, pokiaľ A nie je malý.",
-              "solution": null
+              "solution": "(!small(A) -> (small(D) && circle(D)))"
             },
             {
               "proposition_id": 2236,
               "proposition": "8. E je veľký práve vtedy, keď je pravda, že D je veľký, ak a iba ak je taký F.",
-              "solution": null
+              "solution": "(large(E) <-> (large(D) / (large(E) -> large(F))))"
             },
             {
               "proposition_id": 2237,
