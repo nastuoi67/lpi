@@ -399,6 +399,18 @@
                     {
                       "formula": 0,
                       "type": "alpha"
+                    },
+                    {
+                      "formula": 1,
+                      "type": "beta"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
                     }
                   ]
                 },
@@ -408,7 +420,12 @@
                   "guess": true,
                   "locked": false,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 1,
+                      "type": "beta"
+                    }
+                  ]
                 },
                 {
                   "name": "A_9",
