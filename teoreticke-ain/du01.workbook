@@ -80,12 +80,12 @@
             {
               "proposition_id": 2239,
               "proposition": "11. F je buď štvorec alebo kruh, ak je veľký.",
-              "solution": "(large(F) -> (square(F) || circle(F)))"
+              "solution": "(large(F) -> ((square(F) || circle(F)) && !(square(F) && circle(F))))"
             },
             {
               "proposition_id": 2240,
               "proposition": "12. C je väčší než E, iba ak B je väčší ako C.",
-              "solution": null
+              "solution": "(larger(C,E) -> larger(B,C))"
             }
           ]
         },
