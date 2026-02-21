@@ -433,7 +433,16 @@
                   "guess": true,
                   "locked": false,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 1,
+                      "type": "beta"
+                    }
+                  ]
                 },
                 {
                   "name": "A_{10}",
