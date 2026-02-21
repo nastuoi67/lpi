@@ -308,7 +308,7 @@
                       "type": "alpha"
                     },
                     {
-                      "formula": 0,
+                      "formula": 1,
                       "type": "beta"
                     },
                     {
