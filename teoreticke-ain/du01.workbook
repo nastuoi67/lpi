@@ -559,6 +559,10 @@
                     {
                       "element": "a",
                       "type": "gamma"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "beta"
                     }
                   ]
                 },
@@ -567,7 +571,24 @@
                   "guess": true,
                   "locked": true,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "element": "a",
+                      "type": "gamma"
+                    }
+                  ]
                 }
               ]
             },
