@@ -70,17 +70,17 @@
             {
               "proposition_id": 2237,
               "proposition": "9. D a E sú rovnakej veľkosti.",
-              "solution": null
+              "solution": "same_size(D,E)"
             },
             {
               "proposition_id": 2238,
               "proposition": "10. D a E majú rovnaký tvar.",
-              "solution": null
+              "solution": "((triangle(D) <-> triangle(E)) && ((square(D) <-> square(E)) && (circle(D) <-> circle(E))))"
             },
             {
               "proposition_id": 2239,
               "proposition": "11. F je buď štvorec alebo kruh, ak je veľký.",
-              "solution": null
+              "solution": "(large(F) -> (square(F) || circle(F)))"
             },
             {
               "proposition_id": 2240,
