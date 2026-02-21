@@ -45,12 +45,12 @@
             {
               "proposition_id": 2232,
               "proposition": "4. A je trojuholník, no C nie je veľký.",
-              "solution": "(triangle(A) ∧ !large(C))"
+              "solution": "(triangle(A) && !large(C))"
             },
             {
               "proposition_id": 2233,
               "proposition": "5. Ak C je malý a D je kruh, tak D nie je ani veľký, ani malý.",
-              "solution": null
+              "solution": "((small(C) && circle(D)) -> (!large(D) /\\ !small(D)))"
             },
             {
               "proposition_id": 2234,
