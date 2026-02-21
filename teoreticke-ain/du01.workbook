@@ -534,7 +534,28 @@
                   "locked": false
                 },
                 "smaller": {
-                  "value": [],
+                  "value": [
+                    [
+                      "b",
+                      "c"
+                    ],
+                    [
+                      "c",
+                      "d"
+                    ],
+                    [
+                      "b",
+                      "d"
+                    ],
+                    [
+                      "c",
+                      "a"
+                    ],
+                    [
+                      "b",
+                      "a"
+                    ]
+                  ],
                   "locked": false
                 }
               },
