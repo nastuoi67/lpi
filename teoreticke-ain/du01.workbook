@@ -50,12 +50,12 @@
             {
               "proposition_id": 2233,
               "proposition": "5. Ak C je malý a D je kruh, tak D nie je ani veľký, ani malý.",
-              "solution": "((small(C) && circle(D)) -> (!large(D) /\\ !small(D)))"
+              "solution": "((small(C) && circle(D)) -> (!large(D) && !small(D)))"
             },
             {
               "proposition_id": 2234,
               "proposition": "6. C je stredne veľký iba ak žiadny z D, E, F nie je štvorec.",
-              "solution": null
+              "solution": "(medium(C) -> ((!square(D) && !square(E)) /\\ !square(F)))"
             },
             {
               "proposition_id": 2235,
