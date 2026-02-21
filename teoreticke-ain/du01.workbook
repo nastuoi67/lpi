@@ -467,14 +467,40 @@
                   "guess": true,
                   "locked": false,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 1,
+                      "type": "beta"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    }
+                  ]
                 },
                 {
                   "text": "∀x((purple(x) ∨ yellow(x) ∨ blue(x)) ∧ ¬(purple(x) ∧ yellow(x)) ∧ ¬(purple(x) ∧ blue(x)) ∧ ¬(yellow(x) ∧ blue(x)))",
                   "guess": true,
                   "locked": true,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "element": "a",
+                      "type": "gamma"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    }
+                  ]
                 },
                 {
                   "text": "∀x((triangle(x) ∨ square(x) ∨ circle(x)) ∧ ¬(triangle(x) ∧ square(x)) ∧ ¬(triangle(x) ∧ circle(x)) ∧ ¬(square(x) ∧ circle(x)))",
