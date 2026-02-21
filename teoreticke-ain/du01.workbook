@@ -467,19 +467,19 @@
               },
               "iC": {
                 "A": {
-                  "value": "",
+                  "value": "a",
                   "locked": false
                 },
                 "B": {
-                  "value": "",
+                  "value": "b",
                   "locked": false
                 },
                 "C": {
-                  "value": "",
+                  "value": "c",
                   "locked": false
                 },
                 "D": {
-                  "value": "",
+                  "value": "d",
                   "locked": false
                 }
               },
