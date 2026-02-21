@@ -55,7 +55,7 @@
             {
               "proposition_id": 2234,
               "proposition": "6. C je stredne veľký iba ak žiadny z D, E, F nie je štvorec.",
-              "solution": "(medium(C) -> ((!square(D) && !square(E)) /\\ !square(F)))"
+              "solution": "(medium(C) -> ((!square(D) && !square(E)) && !square(F)))"
             },
             {
               "proposition_id": 2235,
