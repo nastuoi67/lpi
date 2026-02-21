@@ -499,6 +499,14 @@
                     {
                       "formula": 0,
                       "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "beta"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "beta"
                     }
                   ]
                 },
@@ -507,7 +515,20 @@
                   "guess": true,
                   "locked": true,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "element": "a",
+                      "type": "gamma"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    }
+                  ]
                 },
                 {
                   "text": "∀x∀y(smaller(x,y) → ¬smaller(y,x)) ∧ ∀x∀y∀z(smaller(x,y) ∧ smaller(y,z)→ smaller(x,z))",
