@@ -285,7 +285,12 @@
                   "guess": true,
                   "locked": false,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    }
+                  ]
                 },
                 {
                   "name": "A_2",
@@ -591,6 +596,14 @@
                     [
                       "d",
                       "a"
+                    ],
+                    [
+                      "b",
+                      "d"
+                    ],
+                    [
+                      "d",
+                      "b"
                     ]
                   ],
                   "locked": false
