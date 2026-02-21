@@ -485,7 +485,44 @@
               },
               "iP": {
                 "blue": {
-                  "value": [],
+                  "value": [
+                    [
+                      "c"
+                    ]
+                  ],
+                  "locked": false
+                },
+                "purple": {
+                  "value": [
+                    [
+                      "a"
+                    ],
+                    [
+                      "b"
+                    ],
+                    [
+                      "d"
+                    ]
+                  ],
+                  "locked": false
+                },
+                "square": {
+                  "value": [
+                    [
+                      "a"
+                    ],
+                    [
+                      "c"
+                    ]
+                  ],
+                  "locked": false
+                },
+                "circle": {
+                  "value": [
+                    [
+                      "b"
+                    ]
+                  ],
                   "locked": false
                 }
               },
