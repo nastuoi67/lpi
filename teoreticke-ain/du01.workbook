@@ -365,7 +365,12 @@
                   "guess": true,
                   "locked": false,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 0,
+                      "type": "beta"
+                    }
+                  ]
                 },
                 {
                   "name": "A_6",
@@ -373,7 +378,16 @@
                   "guess": true,
                   "locked": false,
                   "lockedGuess": false,
-                  "gameChoices": []
+                  "gameChoices": [
+                    {
+                      "formula": 0,
+                      "type": "beta"
+                    },
+                    {
+                      "formula": 0,
+                      "type": "alpha"
+                    }
+                  ]
                 },
                 {
                   "name": "A_7",
