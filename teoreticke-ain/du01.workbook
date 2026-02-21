@@ -35,12 +35,12 @@
             {
               "proposition_id": 2230,
               "proposition": "2. C je trojuholník, ak je ním B.",
-              "solution": null
+              "solution": "(triangle(B) -> triangle(C))"
             },
             {
               "proposition_id": 2231,
               "proposition": "3. A a C sú oba trojuholníky, iba ak aspoň jeden z nich je veľký.",
-              "solution": null
+              "solution": "((triangle(A) ∧  triangle(C)) -> (large(A) \\/ large(C)))"
             },
             {
               "proposition_id": 2232,
